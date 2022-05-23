@@ -1,0 +1,2 @@
+2022-04-11 20:45:31,421 semantic_segmentation INFO: Using 1 GPUs
+2022-04-11 20:45:31,422 semantic_segmentation INFO: Namespace(apex=False, aux=False, aux_weight=0.4, batch_size=8, dataset='FUSeg', device='cpu', epochs=60, log_dir='./runs/logs/', log_iter=50, loss=['Dice_Loss', 'Cross_Entorpy_Loss'], lr=0.001, lr_scheduler='WarmupPolyLR', model='unet', num_gpus=1, optimizer='Adam', save_dir='./runs/models/', save_epoch=1, seed=1024, start_epoch=0, use_ohem=False, val_epoch=1, weight_decay=0.0001)
